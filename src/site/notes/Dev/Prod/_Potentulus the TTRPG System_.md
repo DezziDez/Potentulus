@@ -27,6 +27,9 @@ You can use the following links below to navigate this book to primary topics of
 ## Terminology
 There are certain words used in this system that are used to convey information as simply as possible. Here are the major ones to assist in reading this system.
 
+#### Game Master (GM)
+The game master is the person who runs the game and simulates the world. The GM decides what rules from this system the game uses and makes a rulings on how the game works. Game master is a position of trust and it is important that communication between the players and GM is maintained.
+
 #### Character
 Everyone is a character. From the snarling wolves to the people the players are playing. The word character refers to any living individual that might make some kind of choice in your world. This word was chosen for its neutral and all-encompassing form.
 
