@@ -7,7 +7,7 @@ Every character has hit points. These hit points determine how much punishment a
 
 The maximum number of hit points a character has is calculated by adding their rank in Vitality twice and then adding their rank in Will twice. 
 
-For example, if you have 3 ranks in Vitality and 2 ranks in Will, you would add Vitalienergyce, 3+3 = 6. Then add your Will twice, 2+2 = 4. Then add those together, 6+4 = 10. In this example, you would have 10 hit points.
+For example, if you have 3 ranks in Vitality and 2 ranks in Will, you would add your Vitality twice, 3+3 = 6. Then add your Will twice, 2+2 = 4. Then add those together, 6+4 = 10. In this example, you would have 10 hit points.
 
 ### Hitting 0
 A character will inevitably hit 0 hits points at some point. A character's hit points cannot go below 0 and while a character's hit points are 0 they gain 1 stack of the dying condition.
@@ -16,7 +16,7 @@ Whenever a character is dying another character may choose to help or finish the
 
 Using the help action on a dying character removes 1 stack of dying from the character.
 
-Finishing a dying character requires another character to attack the dying character. If the dying characters stamina is reduced to 0 and would have delt damage to the dying character, the number of stacks of dying on the dying character are doubled.
+Finishing a dying character requires another character to attack the dying character. If the dying characters stamina is reduced to 0 and would have dealt damage to the dying character, the number of stacks of dying on the dying character are doubled.
 
 ##### 0 and Out
 After a character has gained enough stacks of dying the character will be made unconscious due to a lack of stamina. The dying character must now make Vitality+Will ability checks at the end of their turn against the number of stacks of dying to remain alive.
