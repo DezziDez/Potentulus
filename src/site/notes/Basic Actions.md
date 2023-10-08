@@ -25,8 +25,12 @@ Manipulate:
 - Characters cannot manipulate an object or character that is 1 size or more larger than themselves.
 
 Throw:
+{ #9a1b92}
+
 - A character can throw anything they are currently holding/grappling.
-- An object of bulk 0 can be thrown a number of tiles equal to twice the characters rank in Might. An object of bulk 1 can be thrown a number of tiles equal to their rank in Might. An object of bulk 2 can be thrown 1 tile.
+- An object of bulk 0 can be thrown a number of tiles equal to twice the characters rank in Might. 
+- An object of bulk 1 can be thrown a number of tiles equal to their rank in Might. 
+- An object of bulk 2 can be thrown 1 tile.
 
 Free action (No Cost/1)
 - Every character gets 1 free action.
