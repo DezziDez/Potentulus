@@ -22,13 +22,14 @@ Manipulate:
 - Manipulate is using force to move objects or characters.
 - Manipulate can be used to invoke a contest to grapple a target. This requires both hands to be free and requires a might+agility check against a might+agility check of the characters being grappled.
 - Manipulate can be used to push or pull objects or characters. This requires at least 1 free hand and requires a might+might check.
-- A characters cannot manipulate an object or character that is a size or more larger than themselves.
+- Characters cannot manipulate an object or character that is 1 size or more larger than themselves.
 
 Throw:
 - A character can throw anything they are currently holding/grappling.
-- An object of bulk 0 can be thrown a number of tiles equal to twice the characters might rank. An object of bulk 1 can be thrown a number of tiles equal to their might. An object of bulk 2 can be thrown 1 tile.
+- An object of bulk 0 can be thrown a number of tiles equal to twice the characters rank in Might. An object of bulk 1 can be thrown a number of tiles equal to their rank in Might. An object of bulk 2 can be thrown 1 tile.
 
-Free action (No Cost)
+Free action (No Cost/1)
 - Every character gets 1 free action.
-- A free action is any task that takes time but not energy. Equipping/unequipping/ swapping your items. Studying an enemy. Using an item or object.
+- A free action is any task that takes time but not energy. Equipping/unequipping/ swapping your items. Studying an enemy. Using an item or object. Reloading a ranged weapon.
+- If a character wishes to use more than one free action, it would cost 1 stamina like any other basic action.
 
