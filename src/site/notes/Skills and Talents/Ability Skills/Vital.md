@@ -22,5 +22,5 @@ Rank 5
 
 Rank 6 (Refresh, Half-Rest)
 	- Changes rank 1: Your hit points are 8 points higher.
-	- If you were to hit 0 hit points, you are reduced to 1 hit point instead. This is refreshed on a Half-Rest
+	- If you were to hit 0 hit points, you are reduced to 1 hit point instead.
 
