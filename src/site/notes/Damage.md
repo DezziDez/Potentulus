@@ -10,7 +10,7 @@ There are various damage types that might affect a character.
 - Temperate: This is damage comes from changes in temperature. Fire, Frost, Light, Radiation, lightening.
 - Mental: This is damage of the mind. Whether from the outside in or the inside out. Mental damage can be caused by many things.
 ### Damage Reduction
-Some items like [[Items/Armor\|Armor]] provides damage reduction. That means every time a creature with damage reduction is hit, the amount of damage dealt is reduced by that amount. This damage reduction usually only applies to certain damage types.
+Some items like [[Items/Armor\|Armor]] provides damage reduction. That means every time a character with damage reduction is hit, the amount of damage dealt is reduced by that amount. This damage reduction usually only applies to certain damage types.
 ### Vulnerabilities and Immunities
 Some characters are more or less vulnerable to certain damage types that goes beyond damage reduction.
 
