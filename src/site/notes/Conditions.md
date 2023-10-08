@@ -19,6 +19,8 @@ Bleeding(X):
 - At the end of the bleeding targets turn, the target suffers 1 point of physical damage for every stack of bleeding. This damage cannot be reduced by armor and ignores stamina.
 
 Blinded:
+{ #0c669d}
+
 - The blinded target automatically fails all vision checks.
 - The blinded target suffers a disadvantage on all checks if the target is normally uses sight.
 
@@ -35,6 +37,14 @@ Dying(!^!):
 - The dying character's maximum stamina is reduced by 1 for every stack of dying until the dying character's maximum stamina is 0.
 - The dying character is prone.
 - The dying character suffers a disadvantage on all ability checks except Vitality+Will checks.
+
+
+
+Exhausted(X):
+{ #6ea920}
+
+
+
 
 Grappled:
 - The grappled target cannot move away from the source of the grapple. The grappled target can move around the grappler but is slowed.
