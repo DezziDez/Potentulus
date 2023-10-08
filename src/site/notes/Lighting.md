@@ -5,7 +5,7 @@
 # Lighting
 There are many types of light, but the light types that will be encountered most often by any character are as follows from brightest to darkest:
 Blinding:
-- This type of light is so bright that it is blinding. Blinding light inflicts the blinded [[Conditions\|condition]] on any character that is within its radius. This type of light is usually brief and only blinds creatures temporarily.
+- This type of light is so bright that it is blinding. Blinding light inflicts the blinded [[Conditions\|condition]] on any character that is within its radius. This type of light is usually brief and only blinds characters temporarily.
 Bright:
 - Bright light is extremely clear light that fills large areas and adds contrast. Such as sunlight. Characters seeing through bright light gain an advantage on vision based ability checks.
 Normal:
