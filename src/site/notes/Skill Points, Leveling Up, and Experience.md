@@ -3,14 +3,14 @@
 ---
 
 # Skill Points
-Skill points are the things you spend whenever you want to increase the [[Ranks\|rank]] of something. You gain skill points by leveling up!         ＼（´･∀･｀）／
+Skill points are the things you spend whenever you want to increase the [[Ranks\|rank]] of something. You gain skill points by leveling up.
 
 Whenever you level up, you gain skill points equal to the level gained. So, whenever you level up from 9 to 10 you gain 10 skill points.
 
 # Leveling Up
-Every character starts at level 1. If you want to level up, you have to gain experience. Once you have at least 6 experience, you can level up to your next level!         (╯✧∇✧)╯
+Every character starts at level 1. If you want to level up, you have to gain experience. Once you have at least 6 experience, you can level up to your next level.
 
-To spend the experience points gained from a level up you need to [[Downtime and Resting\|fully rest]]. Though, you do not need to spend all your skill points at once. They can even be saved for your next level!
+To spend the experience points gained from a level up you need to [[Downtime and Resting\|fully rest]]. Though, you do not need to spend all your skill points at once. They can even be saved for your next full-rest or even your future levels.
 
 # Experience
 Experience is awarded by your [[Game Master\|Game Master]] or GM for short. This is the only way you can gain experience.
