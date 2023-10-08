@@ -33,21 +33,21 @@ See the table below for **examples** of what different ability checks might repr
 | Might     | Vitality  | To train or build strength                                                  |
 | Might     | Intellect | Throwing with precision                                                  |
 | Might     | Insight   | Intimidation                                                 |
-| Might     | Will      | Pushing ones might beyond limit                   |
-| Agility   | Agility   | Balancing, Catching                               |
+| Might     | Will      | To exert strength with control over every muscle.                   |
+| Agility   | Agility   | Balancing, Catching, sprinting                               |
 | Agility   | Vitality  | Avoiding a Trap, Dodging an AOE                   |
 | Agility   | Intellect | Initiative, Stealth                                        |
 | Agility   | Insight   | Perception, Slight of Hand                                        |
-| Agility   | Will      | Pushing ones speed beyond limit                   |
+| Agility   | Will      | To move or think with speed and control                   |
 | Vitality  | Vitality  | Resist a Poison, Survive a major wound            |
 | Vitality  | Intellect | Knowledge of Life, Nature, and the wild           |
-| Vitality  | Insight   | Medicine and attempting to heal                   |
+| Vitality  | Insight   | Medicine and attempting to heal without training.                  |
 | Vitality  | Will      | Hit Points, Fighting for ones pure life           |
 | Intellect | Intellect | Research in a Library, Figure out a Clue          |
 | Intellect | Insight   | Learn attributes, Politics, Convince, Detect Lies |
-| Intellect | Will      | Pushing ones mind beyond the limit,                  |
+| Intellect | Will      | To control ones thoughts and keep a clear mind.                  |
 | Insight   | Insight   | Insight for others and Self                       |
-| Insight   | Will      | To control ones self                              |
+| Insight   | Will      | To control ones self and emotions. To deceive or perform.                             |
 | Will      | Will      | To control in general, Esoteric                   |                                                  |
 
 # Contests
