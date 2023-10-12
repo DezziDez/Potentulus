@@ -26,6 +26,13 @@ The game master is the person who runs the game and simulates the world. The GM 
 #### Definition: Character
 Everyone is a character. From the snarling wolves to the people the players are playing. The word character refers to any living individual that might make some kind of choice in your world. This word was chosen for its neutral and all-encompassing form.
 
+### Q & A
+Q: It's open source? Where is it?
+A: It's all located on this github https://github.com/DezziDez/Potentulus feel free to make a pull request to suggest features.
+
+Q: Is there a discord or community I can join to talk about this system?
+A: No. And there probably won't be anything made officially. Feel free to make your own though.
+
 ## Mission Statement
 I originally built this system to make something that anyone could pick up, understand, and play with minimal knowledge of math, system overhead, and full creative freedom.
 
