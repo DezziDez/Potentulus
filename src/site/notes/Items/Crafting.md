@@ -15,13 +15,35 @@ Some items have special properties that add additional effects. These properties
 After crafting the item the character must determine the rank. Characters without the necessary crafting skills in the chosen material cannot make an item greater than rank 1.
 
 ## Crafting Materials
-There are many different types of materials that require different processes and tools. However, they can generally be condensed into the following.
+There are many different types of materials that require different processes and tools. However, they can generally be condensed into the materials listed below.
 
-Metal
-Wood
+All materials have a minor and major ability check. This represents the complexity and amount of material needed. When making a check, the property determines whether or not to the minor or major check.
+
+
+Metal:
+	Major: Might
+	Minor: Will
+
+Wood:
+	Major: Vitality
+	Minor: Intellect
+
 Leather
+	Major: Will
+	Minor: Intellect
+
 Cloth
+	Major: Insight
+	Minor: Intellect
+
 Glass
+	Major: Agility
+	Minor: Insight
+
 Food
+	Major: Insight
+	Minor: Agility
+
+
 
 
