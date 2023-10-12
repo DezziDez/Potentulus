@@ -3,7 +3,7 @@
 ---
 
 # Basic Actions
-There are skills that any character can take no matter what skills or background they have. These are known as basic actions. These basic actions cost 1 [[Hit Points and Stamina#Stamina\|stamina]] to perform.
+There are skills that any character can take no matter what skills or background they have. These are known as basic actions. These basic actions cost 2 [[Hit Points and Stamina#Stamina\|stamina]] to perform.
 
 Attack:
 - Every character can attack another character using their bodies and/or weapons.
