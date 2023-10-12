@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/potentulus-the-ttrpg-system/","tags":["gardenEntry"]}
 ---
 
-<meta name="google-site-verification" content="8NfQpl6kzBIjQB0avd2OnQXZhgc8WbgGm7ro1dR_lwA" />
-
 # Potentulus the TTRPG System
 Welcome to Potentulus, the fully Modular and open-source tabletop role-playing system. I'm Dez and I'll be walking you through everything here!
 
