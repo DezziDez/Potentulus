@@ -26,4 +26,5 @@ All of this is a very difficult balance, like dancing on a tightrope. And while 
 
 -Dez, The Creator
 
-Tags: <meta name="google-site-verification" content="18LFkGLk4SUdafk8YHVckGuT7YBKLiAqWhsGhWYzfa0" />
+
+<meta name="google-site-verification" content="18LFkGLk4SUdafk8YHVckGuT7YBKLiAqWhsGhWYzfa0" />
