@@ -16,12 +16,14 @@ Everyone is a character. From the snarling wolves to the people the players are 
 
 
 ## Mission Statement
-I originally built this system to make something that anyone could pick up, understand, and play with minimal knowledge of math, system overhead, and fully creative freedom.
+I originally built this system to make something that anyone could pick up, understand, and play with minimal knowledge of math, system overhead, and full creative freedom.
 
-I wanted something system agnostic that didn't box you in or tell you how to think. I wanted the system to be simple on the surface but get more complex as you get deeper, easing new players into the idea of more and more complex character. Allowing you to play and make good choices without knowing all the rules but still grow and learn along the way.
+I wanted something system-agnostic that didn't box you in or tell you how to think. I wanted the system to be simple on the surface but get more complex as you get deeper, easing new players into the idea of more and more complex characters. Allowing you to play and make good choices without knowing all the rules but still grow and learn along the way.
 
 I also wanted the system and its mechanics to be able to scale up indefinitely to allow for the biggest bosses and highest power fantasies.
 
 All of this is a very difficult balance, like dancing on a tightrope. And while I am not sure if I succeeded in these goals I can sincerely say that an effort was made. And I really hope you enjoy playing and making anything from your imagination with this tool that is Potentulus.
 
 -Dez, The Creator
+
+Tags: <meta name="google-site-verification" content="18LFkGLk4SUdafk8YHVckGuT7YBKLiAqWhsGhWYzfa0" />
