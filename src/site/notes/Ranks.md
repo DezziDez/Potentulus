@@ -7,7 +7,7 @@ Everything on a character sheet has a rank. Whether that be skills, talents, abi
 # Ability Ranks
 The ranks of your [[Abilities and Checks \|abilities]] cost more skill points as you increase them in rank. To increase the rank of an ability you have to spend a number of skill points equal to the next rank. So going from rank 1 to rank 2 requires you to spend 2 skill points. And going from rank 3 to rank 4 you have to spend 4 skill points.
 # Skill Ranks
-[[Skills and Talents/_Skills_\|Skills]] can be increased in rank just like abilities can. However, when a skill increases in rank it gains power in more interesting ways.
+[[Skills/_Skills_\|Skills]] can be increased in rank just like abilities can. However, when a skill increases in rank it gains power in more interesting ways.
 
 | Rank                | Die                      | Skill Points | Total Points |
 | ------------------- | ------------------------ | ------------ | ------------ |
