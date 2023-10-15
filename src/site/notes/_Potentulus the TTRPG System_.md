@@ -21,10 +21,16 @@ There are words or concepts that are good to understand and be aware of right ou
 This is a concept that this system sticks to through its entirety. The system is designed to be entirely setting agnostic and that means that every item and skill is nearly entirely flavorless. Bland yes but with untold possibilities. The system is designed for flavor and setting to come from the group (GM and Players). So get creative!
 
 #### Definition: Game Master (GM)
+{ #454d89}
+
+
 The game master is the person who runs the game and simulates the world. The GM decides what rules from this system the game uses and makes rulings on how the game works. Game master is a position of trust and it is important that communication between the players and GM is maintained.
 
 #### Definition: Character
 Everyone is a character. From the snarling wolves to the people the players are playing. The word character refers to any living individual that might make some kind of choice in your world. This word was chosen for its neutral and all-encompassing form.
+
+#### Definition: Target
+In some skills, conditions, and items there is something referenced called a target. A target is simply anything that can be targeted such as a character, an object, or the environment.
 
 ### Q & A
 Q: It's open source? Where is it?
