@@ -19,9 +19,9 @@ These attributes can describe any weapon of a similar size and caliber. This met
 Basic Property: 
 - An item can only have 1 size property.
 	- Small (Minor Craft 1d4)
-		- This item has a bulk of 1 and uses agile.
+		- This item has a bulk of 1 and uses agility.
 	- One-Handed (Major Craft 1d6)
-		- This item has a bulk of 1 and uses agile or might.
+		- This item has a bulk of 1 and uses agility or might.
 	- Two-Handed (Major Craft 1d8)
 		- This item has a bulk of 2 and uses might.
 	- Great (Major Craft 1d10)
@@ -41,7 +41,7 @@ Advanced Property:
 ## Ranks
 
 
-| Rank               | Die                     | Range in Tiles |
+| Rank               | Weapon Die                     | Ranged Tiles |
 | ------------------ | ----------------------- | ----- |
 | 1                  | 1d2                     | 5    |
 | 2                  | 1d4                     | 10    |
